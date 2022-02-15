@@ -1,1 +1,10 @@
 .history
+
+/react-header/node_modules
+/react-lazy/node_modules
+/react-multiples/node_modules
+/react-parcel/node_modules
+/react-route-todo/node_modules
+/react-single/node_modules
+/spa-root/node_modules
+/utils/node_modules
